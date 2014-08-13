@@ -1,0 +1,12 @@
+# Site settings
+title: Slides
+email: adam.scott@uconn.edu
+description: "Slides for the Advanced Web Design course at UConn Stamford."
+baseurl: "/slides"
+url: "http://advanced-web-design.github.io/slides."
+twitter_username: adamdscott
+github_username:  ascott1
+
+# Build settings
+markdown: kramdown
+permalink: /:title.html
