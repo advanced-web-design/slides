@@ -1,6 +1,6 @@
 # Site settings
-title: Slides | Advanced Web Design
-email: adam.scott@uconn.edu
+title: "Slides | Advanced Web Design"
+email: "adam.scott@uconn.edu"
 description: "Slides for the Advanced Web Design course at UConn Stamford."
 baseurl: "/slides"
 url: "http://advanced-web-design.github.io/slides"
