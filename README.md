@@ -24,3 +24,11 @@ date:   2015-10-21
 ```
 
 **Note:** To prevent Jekyll from rendering the slide markdown, save the files with a `.html` extension.
+
+## License
+
+Jekyll, Remark, and Poole are licensed under the MIT license.
+
+Slide content is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+
