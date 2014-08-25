@@ -5,11 +5,11 @@ layout: default
 <div class="home">
 
   <ul class="slide-list">
-    {% for post in site.posts %}
+    {% for post in site.posts reversed %}
       <li>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </li>
     {% endfor %}
   </ul>
-  
+
 </div>
